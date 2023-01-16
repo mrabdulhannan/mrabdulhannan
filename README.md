@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrabdulhannan
 - 👀 I’m interested in Web Designing & Web Development
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Solutions
+- 💞️ I’m looking to collaborate on Web Solutions (Magento2 & WordPress)
 - 📫 mrahdanish@gmail.com 
 - 📞 +92 306 1318400
 
