@@ -37,5 +37,7 @@ As a Magento Developer, I leverage my knowledge and expertise in this ever-chang
 - GitHub: [@Mrabdulhannan](https://github.com/Mrabdulhannan)
 - LinkedIn: [Abdul Hannan Danish](https://www.linkedin.com/in/abdul-hannan-danish)
 - Email: [mrahdanish@email.com](mailto:mrahdanish@email.com)
+- Phone Number: +923061318400
+- WhatsApp: [+923061318400](https://wa.me/923061318400)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate, have questions, or just want to connect. I'm excited to share my journey in web development with the GitHub community!
