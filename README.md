@@ -42,7 +42,7 @@ As a Full Stack Developer, I leverage my knowledge and expertise in this ever-ch
 
 ![GitHub stats](https://img.shields.io/github/stars/Mrabdulhannan?style=social)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Hannan%20Danish-blue)](https://www.linkedin.com/in/abdul-hannan-danish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-red)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-red)](https://www.abdulhannandanish.com)
 
 - GitHub: [@Mrabdulhannan](https://github.com/Mrabdulhannan)
 - LinkedIn: [Abdul Hannan Danish](https://www.linkedin.com/in/abdul-hannan-danish)
