@@ -1,6 +1,15 @@
 # Hi, I'm Abdul Hannan Danish 👋
 
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-Expert-brightgreen)
+![Technologies](https://img.shields.io/badge/Technologies-PHP%20%7C%20JavaScript%20%7C%20HTML5%20%7C%20CSS3-blueviolet)
 ![Web Developer](https://img.shields.io/badge/Web%20Developer-%E2%9C%A8-blue)
+![GitHub stats](https://img.shields.io/github/stars/Mrabdulhannan?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Hannan%20Danish-blue)](https://www.linkedin.com/in/abdul-hannan-danish)
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-red)](https://your-portfolio-url.com)
+
+
 
 ### About Me
 
