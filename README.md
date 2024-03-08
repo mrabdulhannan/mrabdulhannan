@@ -4,28 +4,29 @@
 
 ### About Me
 
-I've been passionate about Full Stack Web Development for over 3 years, and my enthusiasm continues to grow. I'm a self-motivated and independent Web Developer with a strong focus on Magento 2, WordPress, Shopify, Laravel, Python and API Integration.
+I've been passionate about Full Stack Web Development for over 3 years, and my enthusiasm continues to grow. I'm a self-motivated and independent Web Developer with a strong focus on Larvel, shopify, Magento 2, WordPress, Python and API Integration.
 
 ### What I Do
 
-- Customization and development of Magento & WordPress-based websites, including any third-party integrations, modifications in existing modules, or developing a new one.
-- Shopify store setup and optimization, theme customization, and app integration.
 - Expertise in Laravel web application development, from concept to deployment.
+- Shopify store setup and optimization, theme customization, and app integration.
+- Shopify Custom Theme & App Development.
+- Customization and development of Magento & WordPress-based websites, including any third-party integrations, modifications in existing modules, or developing a new one.
 - Seamless integration of APIs to enhance the functionality of web applications.
 - Development of WordPress plugins and theme customization for a tailored user experience.
 
 ### Experience
 
-As an experienced Full Stack Developer (Magento & WordPress), I possess in-depth technical knowledge in designing, developing, and delivering solutions, ranging from small integrations to large-scale infrastructures and enterprise projects.
+As an experienced Full Stack Developer (Laravel, Shopify, WordPress & Magento 2), I possess in-depth technical knowledge in designing, developing, and delivering solutions, ranging from small integrations to large-scale infrastructures and enterprise projects.
 
 ### My Philosophy
 
-As a Magento Developer, I leverage my knowledge and expertise in this ever-changing IT world to drive strategic IT/business solutions, particularly eCommerce consulting engagements and high-quality technology solutions. I excel at collaborating with cross-functional teams across different time zones, assisting with product development requests for new features, and customizing existing ones. I find fulfillment in helping others grow—whether they are merchants, managers, developers, freelancers, or agencies.
+As a Full Stack Developer, I leverage my knowledge and expertise in this ever-changing IT world to drive strategic IT/business solutions, particularly eCommerce consulting engagements and high-quality technology solutions. I excel at collaborating with cross-functional teams across different time zones, assisting with product development requests for new features, and customizing existing ones. I find fulfillment in helping others grow—whether they are merchants, managers, developers, freelancers, or agencies.
 
 ### Skills & Technologies
 
 - **Languages:** PHP, JS, Knockout Js, Alpine Js, AJAX, jQuery, HTML5, CSS3, LESS, Python, XML, GraphQL, Tailwind CSS, Vanilla JS.
-- **CMS & Frameworks:** Magento 2, WordPress, Laravel, Core PHP, Shopify.
+- **CMS & Frameworks:** Shopify, Laravel, Magento 2, WordPress, Core PHP.
 - **Servers & OS:** AWS, Docker, Warden, Linux (CentOS, Ubuntu), Nginx, MariaDB, MySQL, Apache, Redis, Elasticsearch.
 - **APIs Integration:** Zoho CRM, Klaviyo, Site24x7, Algolia Search, Social Sharing, and more.
 - **WordPress:** Plugin Development, Theme Customization, and Page Builders.
