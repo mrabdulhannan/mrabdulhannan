@@ -4,7 +4,7 @@
 
 ### About Me
 
-I've been passionate about Full Stack Web Development for over 3 years, and my enthusiasm continues to grow. I'm a self-motivated and independent Web Developer with a strong focus on Larvel, shopify, Magento 2, WordPress, Python and API Integration.
+I've been passionate about Full Stack Web Development for over 3 years, and my enthusiasm continues to grow. I'm a self-motivated and independent Web Developer with a strong focus on Laravel, shopify, Magento 2, WordPress, Python and API Integration.
 
 ### What I Do
 
